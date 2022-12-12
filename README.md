@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tushar Jain.
-- 👀 I’m interested in full stack web development with MERN, MEAN and Django.
-- 🌱 I’m currently learning SAP ABAP development.
+- 👀 I’m interested in full stack web development with MERN and Django.
 - 📫 connect me on linkedin - codever.co.in/u/linkedin
 
 <!---
